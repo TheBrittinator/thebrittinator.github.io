@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Bike Share Rental Statistics Using Python"
-description: "A graphic designer is a professional within the graphic design and graphic arts industry."
+description: "An interactive python program."
 date: 2022-07-01
 feature_image: images/bike-rentals.jpg
-tags: [tips, work]
+tags: [Python, Pandas, ErrorHandling, DescriptiveStatistics]
 ---
 
 This project uses Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. This program does the following:
