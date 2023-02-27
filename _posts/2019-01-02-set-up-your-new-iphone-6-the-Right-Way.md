@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Pokemon Game"
-description: "A game with a purpose - Still in Progress"
-date: 2022-07-01
-feature_image: images/PokemonThumbnail.jpg
-tags: [Python, OOP]
+title: "Bank Churn Analysis"
+description: "Data Discoveries in the Wild - A Capstone Project"
+date: 2023-02-01
+feature_image: images/Churn-Prediction-scaled.jpg
+tags: [Python, SQL, Tableau, Powerpoint]
 ---
 
-This script was completed in conjunction with an instructor teaching Object Oriented Programming with Python. I have a few ideas on how to build this out into an easier to use game!
+A bank is concerned that more and more customers are leaving its credit card services. It would be appreciated if someone could analyze it and come up with recommendations for how the bank can mitigate the reasons for leaving. It is the bank's intention to keep their customers happy by proactively implementing these recommendations.
 
- * [Pokemon Script](https://github.com/TheBrittinator/Britt-s_portfolio/blob/afa15983380df93bd33fda4ed8383efc83c817da/pokemon.py)
+ * [Bank Churn Analysis Project](https://github.com/TheBrittinator/DA_Project_Churn_Analysis)
 
-### **Python | Object Oriented Programming**
+### **Python | Exploratory Data Visualization | SQL | Tableau | Powerpoint **
