@@ -11,4 +11,4 @@ A bank is concerned that more and more customers are leaving its credit card ser
 
  * [Bank Churn Analysis Project](https://github.com/TheBrittinator/DA_Project_Churn_Analysis)
 
-### **Python | Exploratory Data Visualization | SQL | Tableau | Powerpoint **
+### **Python | Exploratory Data Visualization | SQL | Tableau | Powerpoint**
